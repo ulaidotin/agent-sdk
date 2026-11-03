@@ -1,0 +1,9 @@
+[submodule "agent-sdk-go"]
+	path = agent-sdk-go
+	url = https://github.com/ulaidotin/agent-sdk-go.git
+[submodule "agent-sdk-python"]
+	path = agent-sdk-python
+	url = https://github.com/ulaidotin/agent-sdk-python.git
+[submodule "agent-sdk-js"]
+	path = agent-sdk-js
+	url = https://github.com/ulaidotin/agent-sdk-js.git
